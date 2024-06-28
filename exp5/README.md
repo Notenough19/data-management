@@ -14,6 +14,8 @@ pip3 install --upgrade jupyter_core jupyter_client
 python -m ipykernel install --user --name GNN_GCN
 ```
 
+## 一键运行
+在`./code/GNN_GCN.ipynb`中点击全部运行即可。
 
 ## 仓库参考
 https://github.com/fczhang0606/4.1-Graph-Neural-Networks/tree/main
